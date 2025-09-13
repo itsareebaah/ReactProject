@@ -1,6 +1,6 @@
 🌟 Codeware Digital - About Us
 
-Live Demo: https://gilded-jelly-d1649b.netlify.app/about
+Live Demo: https://gilded-jelly-d1649b.netlify.app
 
 📌 Project Overview
 
